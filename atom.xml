@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>H8X Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://huangjingxing.com/"/>
+  <updated>2019-01-30T10:28:59.179Z</updated>
+  <id>http://huangjingxing.com/</id>
+  
+  <author>
+    <name>H8X</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>远与近</title>
+    <link href="http://huangjingxing.com/b/20190109/y/wgocyk.html"/>
+    <id>http://huangjingxing.com/b/20190109/y/wgocyk.html</id>
+    <published>2019-01-09T12:55:04.000Z</published>
+    <updated>2019-01-30T10:28:59.179Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;你，&lt;/p&gt;
+&lt;p&gt;一会儿看我，&lt;/p&gt;
+&lt;p&gt;一会儿看云；&lt;br&gt;
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://huangjingxing.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="随笔" scheme="http://huangjingxing.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>无怨的青春</title>
+    <link href="http://huangjingxing.com/b/20190109/y/lfnk58.html"/>
+    <id>http://huangjingxing.com/b/20190109/y/lfnk58.html</id>
+    <published>2019-01-09T11:51:59.000Z</published>
+    <updated>2019-01-30T10:28:59.179Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;在年轻的时候&lt;/p&gt;
+&lt;p&gt;如果你爱上了一个人&lt;/p&gt;
+&lt;p&gt;请你 请你一定要温柔地对待他&lt;/p&gt;
+&lt;p&gt;不管你们相爱的时间有多长或多短&lt;br&gt;
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://huangjingxing.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="随笔" scheme="http://huangjingxing.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>❤️ Love ❤️</title>
+    <link href="http://huangjingxing.com/b/20190109/y/am8mua.html"/>
+    <id>http://huangjingxing.com/b/20190109/y/am8mua.html</id>
+    <published>2019-01-09T06:12:39.000Z</published>
+    <updated>2019-01-30T10:28:59.179Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;❤️❤️❤️&lt;br&gt;❤️❤️❤️&lt;/p&gt;
+&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+      <category term="images" scheme="http://huangjingxing.com/categories/images/"/>
+    
+    
+      <category term="images" scheme="http://huangjingxing.com/tags/images/"/>
+    
+  </entry>
+  
+</feed>
